@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Estado persistido em tempo de execução (gerado pelo servidor na inicialização)
+queue-data.json
+server.js

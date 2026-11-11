@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Senhas - Secretaria de Agricultura",
+  "description": "Sistema de gerenciamento de senhas para fila de atendimento com atalhos de teclado (setas), controle de operador e painel de TV para recepção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
